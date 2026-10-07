@@ -1,0 +1,5 @@
+# Anki 生成的元数据，不属于插件源码
+meta.json
+__pycache__/
+*.pyc
+.DS_Store
